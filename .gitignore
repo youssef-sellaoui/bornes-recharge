@@ -1,0 +1,11 @@
+# Mot de passe : ne jamais publier
+.env
+
+# Fichiers bruts téléchargés (trop lourds, retéléchargés par le code)
+data/
+
+# Captures originales non masquées (restent sur le PC)
+captures_originales/
+
+# Fichiers temporaires de Python
+__pycache__/
